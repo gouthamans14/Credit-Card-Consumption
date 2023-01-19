@@ -15,3 +15,5 @@ Outputs:
 1) Data Exporatory Analysis.
 2) Model Validations.
 3) Predictive Analytics.
+
+Note: The uploaded notebook contains detailed code with comments and observations.
